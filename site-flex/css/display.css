@@ -1,0 +1,15 @@
+.borda {
+    border: 1px solid red;
+}
+
+#p2 {
+    display: block;
+}
+
+#p2:hover {
+    display: none;
+}
+
+li {
+    display: inline;
+}
